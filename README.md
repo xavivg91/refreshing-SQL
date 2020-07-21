@@ -11,8 +11,8 @@
 
 In this repository you can find two databases to practice SQL queries and two other files with some basic exercises about:
 
-* Create databases, tables, columns and rows
-* Insert, update or delete records
+* Create databases, tables and columns 
+* Insert, update or delete rows
 * Create a Foreign and a Primary Key
 * Drop databases and tables and truncate tables
 * Execute basic queries using the commonly used commands
