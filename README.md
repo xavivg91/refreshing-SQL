@@ -9,23 +9,11 @@
 [![GitHub Xavi](https://img.shields.io/github/followers/xavivg91?label=follow&style=social)](https://github.com/xavivg91/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Xavier91vg.svg?style=social)](https://twitter.com/Xavier91vg)
 
-In this repository you can find two databases to practice queries and two other files with some basic SQL exercises about:
+In this repository you can find two databases to practice SQL queries and two other files with some basic exercises about:
 
-* Creation of databases, tables, columns and rows
+* Create databases, tables, columns and rows
 * Insert, update or delete records
-* How to create a Foreign and a Primary Key
+* Create a Foreign and a Primary Key
 * Drop databases and tables and truncate tables
-*
-
-
-
-SQL can execute queries against a database
-SQL can retrieve data from a database
-SQL can insert records in a database
-SQL can update records in a database
-SQL can delete records from a database
-SQL can create new databases
-SQL can create new tables in a database
-SQL can create stored procedures in a database
-SQL can create views in a database
-SQL can set permissions on tables, procedures, and views
+* Execute basic queries using the commonly used commands
+* Combine rows from two or more tables using joins
