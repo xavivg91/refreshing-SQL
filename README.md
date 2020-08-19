@@ -2,7 +2,7 @@
 
 <!-- badges: start -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/xavivg91/refreshing-SQL/issues/new)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/xavivg91/refreshing-SQL/issues/new)
 [![HitCount](http://hits.dwyl.com/xavivg91/refreshing-SQL.svg)](http://hits.dwyl.com/xavivg91/refreshing-SQL)
 <!-- badges: end -->
 
